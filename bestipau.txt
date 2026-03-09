@@ -1,0 +1,8 @@
+125.7.24.251:443#AU (Unknown)
+152.69.174.99:25248#AU (Oracle Corporation)
+130.162.193.183:15401#AU (Oracle Corporation)
+152.67.101.72:23010#AU (Oracle Corporation)
+192.9.183.128:45673#AU (Oracle Corporation)
+192.9.190.80:23862#AU (Oracle Corporation)
+170.64.152.77:7443#AU (DigitalOcean, LLC)
+45.77.236.204:443#AU (The Constant Company, LLC)

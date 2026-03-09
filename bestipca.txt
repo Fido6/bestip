@@ -1,0 +1,8 @@
+150.230.27.23:16504#CA (Unknown)
+213.255.209.207:443#CA (Unknown)
+172.98.207.58:443#CA (Centrilogic, Inc.)
+192.18.150.121:27620#CA (Oracle Corporation)
+213.255.209.189:443#CA (Unknown)
+69.28.82.253:443#CA (Atlantic.net, Inc.)
+69.28.83.244:443#CA (Atlantic.net, Inc.)
+91.194.11.78:81#CA (DGTL TECH UK LLP)
